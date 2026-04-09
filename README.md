@@ -74,7 +74,19 @@ Los títulos se crean con `#`. Cuantos más `#`, más pequeño el subtítulo.
 - Imagen: `![alt](https://url-imagen.jpg)`
 - Cita: `> texto destacado`
 
-### Lección 4 — Tablas y código (pendiente)
+### Lección 4 — Tablas y código ✅
+
+| Servicio | Descripción | Tiempo |
+|---|---|---|
+| Hardware | PC, portátil, smartphones y tablets | 24-48h |
+| Software | Gestión de empresas | A medida |
+| IA | Agentes e aplicaciones | Consultar |
+
+**Reglas clave:**
+- Tabla: columnas separadas por `|`
+- Segunda fila siempre con `|---|---|---|
+- Código inline: `` `comando` ``
+- Bloque de código: triple comilla invertida + lenguaje
 
 ### Lección 5 — Documento completo README profesional (pendiente)
 
