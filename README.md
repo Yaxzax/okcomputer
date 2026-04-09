@@ -38,7 +38,28 @@ Los títulos se crean con `#`. Cuantos más `#`, más pequeño el subtítulo.
 - Espacio obligatorio entre `#` y el texto
 - Cada título en su propia línea
 
-### Lección 2 — Listas, negritas y cursivas (pendiente)
+### Lección 2 — Listas, negritas y cursivas ✅
+
+**Servicios principales:**
+- Hardware
+- Software
+- IA
+
+**Tus servicios informáticos y digitales seguros en una sola empresa**
+
+**Cómo trabajamos:**
+1. Primer contacto y diagnóstico
+2. Propuesta personalizada
+3. Implementación y seguimiento
+
+*Acompañamos a cada cliente desde el primer día*
+
+**Reglas clave:**
+- Lista viñetas: `- Elemento`
+- Lista numerada: `1. Paso`
+- Negrita: `**texto**`
+- Cursiva: `*texto*`
+- Negrita + cursiva: `***texto***`
 
 ### Lección 3 — Enlaces, imágenes y citas (pendiente)
 
