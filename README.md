@@ -61,7 +61,18 @@ Los títulos se crean con `#`. Cuantos más `#`, más pequeño el subtítulo.
 - Cursiva: `*texto*`
 - Negrita + cursiva: `***texto***`
 
-### Lección 3 — Enlaces, imágenes y citas (pendiente)
+### Lección 3 — Enlaces, imágenes y citas ✅
+
+[OK Computer en Gamma](https://gamma.app/docs/Ok-Computer-Soluciones-Informaticas-y-Digitales-mymeajuksgfc2vu)
+
+[Mi repositorio en GitHub](https://github.com/Yaxzax/okcomputer)
+
+> La tecnología al servicio de las personas, no al revés.
+
+**Reglas clave:**
+- Enlace: `[texto](https://url.com)`
+- Imagen: `![alt](https://url-imagen.jpg)`
+- Cita: `> texto destacado`
 
 ### Lección 4 — Tablas y código (pendiente)
 
